@@ -1,0 +1,2 @@
+[2026-10-28 01:14:37] [INICIO] servico=CompressPDF arquivo=aula10.pdf msg=Requisicao recebida
+[2026-10-28 01:14:37] [SUCESSO] servico=CompressPDF arquivo=aula10.pdf msg=PDF comprimido e enviado
